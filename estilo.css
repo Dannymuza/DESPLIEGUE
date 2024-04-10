@@ -1,0 +1,21 @@
+.contenedor{
+    font-size: 2rem;
+    color: teal;
+    align-content: center;
+}
+body{
+    background-color: aquamarine;
+    width: 660px;
+    height: 1024px;
+}
+.contenedor-1 {
+    font-size: 2rem;
+    color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-content: normal;
+
+
+}
+.boton{
+    background-color: brown;
+}
